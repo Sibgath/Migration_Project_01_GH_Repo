@@ -1,4 +1,2 @@
 updating from GitHub
-
-again updating from GH
-
+updating from DB
