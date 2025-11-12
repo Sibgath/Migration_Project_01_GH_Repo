@@ -1,4 +1,8 @@
 updating from GitHub
 updating from DB
 updating again from GH
+<<<<<<< Updated upstream
 sample content added
+=======
+updating again from DB
+>>>>>>> Stashed changes
